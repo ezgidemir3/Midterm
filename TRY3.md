@@ -13,4 +13,4 @@ and im gonna use different Markdown syntax formats for this one bc it is fun
 - [x] Study github
 - [ ] Study python
 
-I love ==YOU==.
+~I love YOU~
