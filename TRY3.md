@@ -9,3 +9,7 @@ and im gonna use different Markdown syntax formats for this one bc it is fun
 |Im|Sorry|For|That|Night|And|
 |Id|Go|Back|To|December|Allthetime|
 
+
+-[X]Study github
+-[ ]Study python
+
