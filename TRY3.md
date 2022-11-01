@@ -10,6 +10,6 @@ and im gonna use different Markdown syntax formats for this one bc it is fun
 |Id|Go|Back|To|December|Allthetime|
 
 
--[X]Study github
--[ ]Study python
+- [x] Study github
+- [ ] Study python
 
